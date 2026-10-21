@@ -1,0 +1,2 @@
+# Game_BounceQuiz_AI_Pemahaman_Dasar_Komunikasi_Kantor
+BounceQuiz_AI_Pemahaman_Dasar_Komunikasi_Kantor Kelas XI Jenjang SMK
